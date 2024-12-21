@@ -1,7 +1,4 @@
-/*created by Kgtech 🕵
-contact dev1 237656520674 ♻️
-contact dev2 237650564445 ♻️
-© Copy coder alert ⚠
+/*𝙙𝙖𝙙𝙙𝙮 𝙞𝙜𝙬𝙚 𝙞𝙨 𝙗𝙖𝙘𝙠
 */
 
 const {
