@@ -86,8 +86,8 @@ let up = `*╭──────────────●●►*
 
 *╭⊱✫🌸TERRA_MD-V2🌸✫⊱╮*
 *│✫➠ - 📂REPOSITORY NAME:* *TERRA_MD-V2*
-*│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *KG TECH🇨🇲*
+*│✫➠ - 📃DESCRIPTION:* *𝙒𝘼 𝘽𝙊𝙏 𝙈𝙊𝙍𝙀 𝙁𝙀𝘼𝙏𝙐𝙍𝙀🐱*
+*│✫➠ - 🛡️OWNER:* 𝙄𝙂𝙒𝙀𝘽𝙊𝙏𝙕
 *│✫➠ - 🌐URL:* *https://github.com/DADDY-IGWE*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
