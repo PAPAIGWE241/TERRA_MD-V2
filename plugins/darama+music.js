@@ -1,8 +1,4 @@
-/*created by Kgtech 🕵
-contact dev1 237656520674 ♻️
-contact dev2 237650564445 ♻️
-© Copy coder alert ⚠
-*/
+
 
 
 
@@ -28,7 +24,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁*KERM_MD-V4 MUSⵊC DOWNLOADⵊNG*⦁⫸
+⫷⦁*TERRA_MD-V2 MUSⵊC DOWNLOADⵊNG*⦁⫸
 
 🎵 *MUSⵊC FOUND!* 
 
@@ -40,9 +36,9 @@ let desc = `
 
 🎧 *ENJOY THE MUSIC BROUGHT TO YOU!*
 
-> *KERM_MD-V4 WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kᴇʀᴍ_ᴍᴅ-ᴠ4* 
+
+> *© IGWEBOTZ*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -65,7 +61,7 @@ console.log(e)
 //====================video_dl=======================
 
 cmd({
-    pattern: "darama",
+    pattern: "video",
     alias: ["video2"],
     desc: "To download videos.",
     react: "🎥",
@@ -81,7 +77,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁*•KERM_MD-V4 VⵊDEO DOWNLOADⵊNG*⦁⫸ 
+⫷⦁*•TERRA_MD-V2 VⵊDEO DOWNLOADⵊNG*⦁⫸ 
 
 🎥 *VⵊDEO FOUND!* 
 
@@ -93,9 +89,8 @@ let desc = `
 
 🎬 *ENJOY THE VIDEO BROUGHT TO YOU!*
 
-> *KERM_MD-V4 WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kᴇʀᴍ_ᴍᴅ-ᴠ4*
+
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
