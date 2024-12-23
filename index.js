@@ -1,4 +1,5 @@
-/*𝙙𝙖𝙙𝙙𝙮 𝙞𝙜𝙬𝙚 𝙞𝙨 𝙗𝙖𝙘𝙠
+/*created by IGWEBOTZ 
+© Copy coder alert ⚠
 */
 
 const {
@@ -51,7 +52,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING TERRA_MD-V2⚙️...");
+console.log("CONNECTING TERRA_MD-V3🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -71,7 +72,7 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('♻️ INSTALLING PLUGINS FILES PLEASE WAIT... 🪄')
+console.log('♻️ INSTALLING PLUGINS FILES PLEASE WAIT A MOMENT..🚨')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
@@ -79,21 +80,27 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('TERRA_MD-V2 CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('TERRA_MD-V3 CONNECTED TO WHATSAPP  ✅')
 
 let up = `*╭──────────────●●►*
-> *➺TERRA_ᴍᴅ-ᴠ2 ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ IGWEBOTZ's*
+> *➺Kᴇʀᴍ_ᴍᴅ-ᴠ4 ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋɢ ᴛᴇᴄʜ✅*
 
-*╭⊱✫🌸TERRA_MD-V2🌸✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *TERRA_MD-V2*
-*│✫➠ - 📃DESCRIPTION:* *𝙒𝘼 𝘽𝙊𝙏 𝙈𝙊𝙍𝙀 𝙁𝙀𝘼𝙏𝙐𝙍𝙀🐱*
-*│✫➠ - 🛡️OWNER:* 𝙄𝙂𝙒𝙀𝘽𝙊𝙏𝙕
-*│✫➠ - 🌐URL:* *https://github.com/DADDY-IGWE*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs Kᴇʀᴍ_ᴍᴅ-ᴠ4❁*
 
-*YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
+*https://whatsapp.com/channel/0029VaydjpS7z4kekYAreA2Y*
 
-*╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/2vcGCkx/ee74edb1889f771b.jpg` }, caption: up })
+> *IGWEBOTZ INC.*
+
+*╭⊱✫🐲 𝐓𝐄𝐑𝐑𝐀_𝐌𝐃-𝐕3🐲✫⊱╮*
+*│✫➠ - 📂REPOSITORY NAME:* *𝐓𝐄𝐑𝐑𝐀_𝐌𝐃-𝐕3*
+*│✫➠ - 📃DESCRIPTION:* *𝐁𝐎𝐓 𝐁𝐀𝐒𝐄𝐃 𝐁𝐘 𝐍𝐎𝐃𝐄𝐉𝐒 𝐀𝐍𝐃 𝐁𝐀𝐈𝐋𝐄𝐘𝐒*
+*│✫➠ - 🛡️OWNER:* *𝐈𝐆𝐖𝐄𝐁𝐎𝐓𝐙👨‍🏫*
+*│✫➠ - 🌐URL:* *https://github.com/DADDY-IGWE/TERRA_MD-V3*
+
+*YOUR BOT ACTIVE NOW ENJOY💥❗*\n\n*PREFIX: ${prefix}*
+
+*╰──────────────●●❥*`;
+conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/osriwc.jpg` }, caption: up })
 
 }
 })
@@ -160,20 +167,20 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
         
 //================ownerreact==============
-if(senderNumber.includes("23777777777")){
+if(senderNumber.includes("24160558757")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("237777777777")){
+if(senderNumber.includes("24160338756")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("923251869133")){
+if(senderNumber.includes("24160338748")){
 if(isReact) return
 m.react("🦋")
    }
 
-if(senderNumber.includes("447783770746")){
+if(senderNumber.includes("24160338758")){
 if(isReact) return
 m.react("🎀")
    }
@@ -236,7 +243,7 @@ if (cmd.react) conn.sendMessage(from, { react: { text: cmd.react, key: mek.key }
 try {
 cmd.function(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply});
 } catch (e) {
-console.error("[PLUGIN ERROR] " + e);
+console.error("`[PLUGIN ERROR]` " + e);
 }
 }
 }
@@ -260,7 +267,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HOAHIO, TERRA_MD-V2 STARTED ✅");
+res.send("TERRA_MD-V3,IS LIVE MASTER⚙️");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {

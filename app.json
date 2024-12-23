@@ -1,7 +1,7 @@
 {
-  "name": "TERRA_MD-V2",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kɢ ᴛᴇᴄʜ",
-  "logo": "https://i.ibb.co/MDLYVsn/b941c6941e303f3d.jpg",
+  "name": "TERRA_MD-V3",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ IGWEBOTZ",
+  "logo": "https://i.ibb.co/VC33JmH/1dcc7ddfc570bb61.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/2vcGCkx/ee74edb1889f771b.jpg"
+      "value": "https://i.ibb.co/VC33JmH/1dcc7ddfc570bb61.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HI GUY'S TERRA IS LIVE"
+      "value": "HI KEEP CALM AND SMILE IM HERE 💥🐸"
     },
     
     "PREFIX": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "⳻᷼⳺𝙏𝙀𝙍𝙍𝘼-𝙈𝘿_𝙑²⳻᷼⳺"
+      "value": "✦『𝐓𝐄𝐑𝐑𝐀-𝐌𝐃-𝐕3』✦"
     }, 
 
     "HEART_REACT": {
